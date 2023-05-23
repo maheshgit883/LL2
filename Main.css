@@ -1,0 +1,20 @@
+.container {
+     justify-content: center;
+    
+      align-items: flex-start;
+    
+      margin-top: 20px;
+    
+    }
+    
+    .selected-type {
+    
+      color: red;
+    
+      margin-top: 10px;
+    
+      justify-content: center;
+    
+      align-items: flex-start;
+    
+    }
